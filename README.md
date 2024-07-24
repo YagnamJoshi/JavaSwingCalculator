@@ -70,10 +70,6 @@ The `calculate` method performs the arithmetic operations based on the operator 
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 - Java Swing documentation for providing guidance on building GUI applications.
